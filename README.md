@@ -1,2 +1,4 @@
 # Snake-pyqt5
-this is a snake game 
+
+
+You can see app screen ![here](https://ibb.co/6wnby6h)
